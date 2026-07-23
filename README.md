@@ -13,23 +13,6 @@ Welcome to my **LeetCode Solutions Repository**! This repository contains my dai
 
 * Python 🐍
 
-## 📂 Repository Structure
-
-```text
-LeetCode/
-├── Arrays/
-├── Strings/
-├── HashMap/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-├── Greedy/
-└── README.md
-```
-
 Each solution includes:
 
 * ✅ Clean and readable code
